@@ -39,3 +39,12 @@ Tool result is stored in a `ToolMessage`
 `ToolMessage` is passed back to the LLM  
 ↓  
 LLM generates the final answer
+
+
+documentation on langchain tools
+
+https://docs.langchain.com/oss/python/langchain/tools
+
+langchain offers sometools with 3rd party functionalities
+
+https://docs.langchain.com/oss/python/integrations/tools

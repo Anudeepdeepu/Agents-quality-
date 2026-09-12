@@ -41,4 +41,6 @@ uv run test.py
 git init
 echo .env>>.gitignore
 echo .venv/>>.gitignore
+! uv add yfinance langchain_community
+uv add -qU langchain-tavily
 doskey/history
